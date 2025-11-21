@@ -1,0 +1,68 @@
+*{
+    
+}
+
+
+html
+{background-color:rgb(196, 255, 196);
+    background-image:url(.jpg)}
+header{
+    color:rgb(192, 70, 182);
+   font-size:xx-large;
+   font-style:italic;
+}
+.at{background-image: url(pexels.jpg);
+    background-color:green;
+    height: 500px;
+   width: 900px;
+    margin: 2px;
+    padding: 2%;
+    background-repeat: repeat;
+}
+.doll
+{
+color: aqua;
+text-size-adjust: 50px;
+text-decoration: aqua;
+}
+.dressbar
+{
+background-color: rgb(146, 197, 63);
+ text-align: justify; 
+ text-indent: 120px; 
+}
+#one
+{ display:flex;
+flex-direction:row;
+margin:10px; 
+padding: 5px;
+text-indent: 30px;
+text-rendering:initial;}
+body{
+color: black;
+}
+#two
+ {
+    background-image: url(deep.jpg);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+#one a 
+{background-color:rgb(235, 136, 154);
+    grid-template-columns:auto auto auto auto;
+    text-align:center;
+}
+@media(max-width:784px;
+){
+    .grid{grid-template-columns: repeat(2,1fr);}
+}
+section{
+    background-image: url(ore.jpg);
+    background-color: rgb(243, 221, 23);
+}
+@keyframes
+{
+    fro
+}
